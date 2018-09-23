@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chegou!</string>
+    <string name="title_home">Novo Pacote</string>
+    <string name="title_packages">Pacotes</string>
+    <string name="title_reports">Relatórios</string>
+
+</resources>
