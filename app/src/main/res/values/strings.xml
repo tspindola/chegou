@@ -3,8 +3,12 @@
     <string name="title_new_package">Novo Pacote</string>
     <string name="title_packages">Pacotes</string>
     <string name="title_reports">Relatórios</string>
+    <string name="title_packages_out">Saída de pacotes</string>
+    <string name="title_packages_in">Entrada de pacotes</string>
     <string name="title_configuration">Configurações</string>
 
     <string name="placeholder">nononononononononononono</string>
+
+
 
 </resources>
