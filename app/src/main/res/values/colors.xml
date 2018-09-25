@@ -2,5 +2,11 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    
+    <color name="blueSky">#4cb5f5</color>
+    <color name="granite">#b7b8b6</color>
+    <color name="pine">#34675c</color>
+    <color name="fields">#b3c100</color>
+    <color name="lightGray">#e9e9e9</color>
 </resources>
