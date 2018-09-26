@@ -9,6 +9,14 @@
 
     <string name="placeholder">nononononononononononono</string>
 
+    <string name="title_new_shelf">Editar armazéns</string>
+    <string name="title_new_recipient">Editar destinatários</string>
+
+    <string name="ok">OK</string>
+    <string name="success_dialog_title">Pronto!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

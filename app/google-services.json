@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "558497522770",
+    "firebase_url": "https://chegou-c58e9.firebaseio.com",
+    "project_id": "chegou-c58e9",
+    "storage_bucket": "chegou-c58e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558497522770:android:6103e7aa2e636182",
+        "android_client_info": {
+          "package_name": "br.com.peak.chegou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558497522770-uikcs6g92r6io2t4rsljt4am2akicds3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FJ9Z2n8kBOhInkw4DTQVRMGukZAzluo"
+        },
+        {
+          "current_key": "AIzaSyD_FJ9Z2n8kBOhInkw4DTQVRMGukZAzluo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
